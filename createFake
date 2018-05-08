@@ -1,0 +1,38 @@
+<html>
+    <title>Create News</title>
+    <style>
+            .center {
+        margin: auto;
+        width: 50%;
+       // border: 3px solid green;
+        padding: 10px;
+    }
+    </style>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <body class = "center">
+        
+        <h3 style = "color: Red">Create Trump News</h3>
+        
+            <form action="TrumpVerification.php" method="POST" enctype="multipart/form-data">
+                  Title:<br>
+                  <input type="text" name="title" maxlength = "100" value="">
+                  <br>
+                  Picture: <br>
+                  <input type="file" name="fileToUpload" id = "fileToUpload" accept="image/*"><br>
+                  Content:<br>
+                  <textarea maxlength = "8750" name="content" class="longInput" cols="30" rows="10"></textarea>
+                  <br><br>
+                  <p style = "color: Red">note: '***' does a line break</p>
+        <p style = "color: Red">Write '*B*' to begin bold text and '*b*' to end bold text.</p>
+        <p style = "color: Red">Write '*Q*' to begin quoted text and '*q*' to end quoted text.</p>
+                  <input type="submit" value="Submit">
+            </form> 
+            
+            
+        
+    </body>
+    
+    
+</html>
+    

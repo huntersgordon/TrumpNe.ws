@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+                    <html>
+                    <head>
+                        
+                        <meta property="og:title" content="http://TrumpNe.ws" />
+                    
+                        <meta property="og:image" content="images/slider_img4.jpg" />
+                        
+                        
+                    <title>trump news</title>
+                    <meta charset="utf-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/font.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/li-scroller.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/slick.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/jquery.fancybox.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/theme.css">
+                    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+                    <!--[if lt IE 9]>
+                    <script src="assets/js/html5shiv.min.js"></script>
+                    <script src="assets/js/respond.min.js"></script>
+                    <![endif]-->
+                    </head>
+                    <body style = "background-color: red" >
+                    <div id="preloader">
+                      <div id="status">&nbsp;</div>
+                    </div>
+                    <a style = "background-color: red" class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+                    <div class="container">
+                      <header id="header">
+                        <div class="row">
+                          <div class="col-lg-12 col-md-12 col-sm-12">
+                               <!---<div class="header_top">
+                              <div class="header_top_left">
+                               
+                                <ul class="top_nav">
+                                  <li><a href="index.html">Home</a></li>
+                                  <li><a href="#">About</a></li>
+                                  <li><a href="pages/contact.html">Contact</a></li>
+                                </ul>
+                              </div>
+                              <div class="header_top_right">
+                                <p>Friday, December 05, 2045</p>
+                              </div>
+                            </div>-->
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="header_bottom">
+                              <div class="logo_area"><a href="index.html" class="logo"><img style = "height:100px" src="images/logo.jpg" alt=""></a></div>
+                              <!--<div class="add_banner"><a href="#"><img src="images/addbanner_728x90_V1.jpg" alt=""></a></div>-->
+                            </div>
+                          </div>
+                        </div>
+                      </header>
+                      <section id="navArea">
+                        <nav class="navbar navbar-inverse" role="navigation">
+                          <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                          </div>
+                          <div id="navbar" class="navbar-collapse collapse">
+                            <ul style = "background-color: red" class="nav navbar-nav main_nav">
+                              <li  style = "background-color: red" class="active"><a style = "background-color: red" href="index.html"><span style = "background-color: red" class="fa fa-home desktop-home"></span><span style = "background-color: red" class="mobile-show">Home</span></a></li>
+                               <li> <a href="news"  role="button" style = "background-color: red" aria-expanded="false">See All</a>
+                                
+                              </li>
+                              
+                              <li> <a href="createFake"  role="button" style = "background-color: red" aria-expanded="false">Create</a>
+                              </li>
+                    
+                              <!---<li><a href="#">Laptops</a></li>
+                              <li><a href="#">Tablets</a></li>
+                              <li><a href="pages/contact.html">Contact Us</a></li>
+                              <li><a href="pages/404.html">404 Page</a></li>---->
+                            </ul>
+                          </div>
+                        </nav>
+                      </section>
+                      <section id="newsSection">
+                        <div class="row">
+                          <div class="col-lg-12 col-md-12">
+                            <div style = "background-color:red" class="latest_newsarea"> <!---<span>Latest News</span>
+                              <ul id="ticker01" class="news_sticker">
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My First News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Second News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Third News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Four News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Five News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Six News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Seven News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail3.jpg" alt="">My Eight News Item</a></li>
+                                <li><a href="#"><img src="images/news_thumbnail2.jpg" alt="">My Nine News Item</a></li>
+                              </ul>--><br/>
+                              <div class="social_area">
+                                <ul class="social_nav">
+                                  <li class="facebook"><a href="#"></a></li>
+                                  <li class="twitter"><a href="#"></a></li>
+                                  <li class="flickr"><a href="#"></a></li>
+                                  <li class="pinterest"><a href="#"></a></li>
+                                  <li class="googleplus"><a href="#"></a></li>
+                                  <li class="vimeo"><a href="#"></a></li>
+                                  <li class="youtube"><a href="#"></a></li>
+                                  <li class="mail"><a href="#"></a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                      <section id="sliderSection">
+                        <div class="row">
+                          <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="slick_slider">
+                                
+                                <h3>Headlines</h3>
+                                
+                                <div class="single_iteam"> <a href="pages/cosby"> <img src="images/cosby.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="pages/cosby">Trump on Cosby Guilt: "It\'s Wrong"</a></h2>
+                                  <p>Following the sweater-loving sex offender\'s guilty conviction on Thursday, Trump, a long-time friend of Cosby, comes to his defense.  </p>
+                                </div>
+                              </div>
+                                
+                                
+                                
+                                
+                                
+                                <div class="single_iteam"> <a href="pages/trumpkanye.html"> <img src="images/kanye_wipes.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="pages/trumpkanye.html">Breaking: Kanye West blew Trump in December Trump Tower Meeting</a></h2>
+                                  <p>A now-unaffiliated Trump Tower employee revealed to AP that Trump and West were involved in \'oral play\' during the top secret meeting. \'It looked like Kanye really knew how to suck\'... "</p>
+                                </div>
+                              </div>
+                                
+                                
+                                
+                                
+                              <div class="single_iteam"> <a href="#"> <img src="images/slider_img4.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="#">Trump News is "Huge", especially among Mexicans</a></h2>
+                                  <p>Donald Trump, on Trump news: "Did I mention that the Mexicans LOVE it? Let me tell you, Trump News is great, tremendous—and I love the mexican people. They\'re great people. Fantastic workers":...</p>
+                                </div>
+                              </div>
+                              
+                              
+                              
+                              <div class="single_iteam"> <a href="#"> <img src="images/slider_img2.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="#">Trump pledges allegiance to North Korean flag</a></h2>
+                                  <p>President Trump, after previously detesting the East Asian state, was seen Friday pledging allegiance to the communist dictatorship lead by Kim Jong-Un...</p>
+                                </div>
+                              </div>
+                              <div class="single_iteam"> <a href="#"> <img src="images/slider_img3.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="pages/single_page.html">President Trump\'s Medical Records Released</a></h2>
+                                  <p>Following numerous allegations of passing Chlamydia and other Sexually transmitted infections, the Trump family doctor finally decided to release the President\'s confidential medical records...  </p>
+                                </div>
+                              </div>
+                              <div class="single_iteam"> <a href="#"> <img src="images/slider_img1.jpg" alt=""></a>
+                                <div class="slider_article">
+                                  <h2><a class="slider_tittle" href="pages/single_page.html">Donald Trump Describes the Asshole Size of the Easter Bunny Moments After Getting Fucked by it</a></h2>
+                                  <p>Following easter processions at the White House on Sunday, President Trump described a sexual encounter with the whimsical woodland creature...</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="latest_post">
+                              <h2><span style = "background-color:red">New Posts</span></h2>
+                              <div class="latest_post_container">
+                                <div id="prev-button"><i class="fa fa-chevron-up"></i></div>
+                                    <ul class="latest_postnav"><li>
+                <div class="media"> <a href="pages/DonaldTrumpisTiredofGettingFakeNewsd class="media-left"> <img alt="" src="www.calhat.com/trump/uploads/1vkv7d.jpg"> </a>
+                  <div class="media-body"> <a href="pages/cosby" class="catg_title">Donald Trump is Tired of Getting Fake News'd</a> </div>
+                </div>
+              </li><li>
+                <div class="media"> <a href="pages/WhatsTrumpsFavoriteFood class="media-left"> <img alt="" src="www.calhat.com/trump/uploads/98074b9802c5c881_GettyImages-109189482-1.jpg"> </a>
+                  <div class="media-body"> <a href="pages/cosby" class="catg_title">What's Trump's Favorite Food?</a> </div>
+                </div>
+              </li></ul>
+                                    <div id="next-button"><i class="fa  fa-chevron-down"></i></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </section>
+                          <section id="contentSection">
+                            <div class="row">
+                              <div class="col-lg-8 col-md-8 col-sm-8">
+                                <div class="left_content">
+                                  
+                                  </div>
+                                 
+                                  
+                                </aside>
+                              </div>
+                            </div>
+                          </section>
+                          <footer id="footer">
+                            <div class="footer_top">
+                              <div class="row">
+                                <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="footer_widget wow fadeInLeftBig">
+                                    <h2 ><a style = "color:green"href = "http://www.jjhahn.com">buy trumpne.ws</a></h2>
+                                  </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="footer_widget wow fadeInDown">
+                                    <h2>trumpne.ws team</h2>
+                                    <ul class="tag_nav">
+                                      <li><a href="#">David, Co-CEO</a></li>
+                                      <li><a href="#">Michael, Co-CEO</a></li>
+                                      <li><a href="#">Mattia, Co-CEO</a></li>
+                                      <li><a href="https://www.linkedin.com/in/huntersgordon/">Hunter, Engineer</a></li>
+                                      
+                                    </ul>
+                                  </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-4">
+                                  <div class="footer_widget wow fadeInRightBig">
+                                    <h2>Email</h2>
+                                    <p>kaufmandavid18@yahoo.com</p>
+                                    <address>
+                                    
+                                    </address>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="footer_bottom">
+                              <p class="copyright">copyright &copy; 2018 <a href="index.html">trumpne.ws</a></p>
+                              
+                            </div>
+                          </footer>
+                        </div>
+                        <script src="assets/js/jquery.min.js"></script> 
+                        <script src="assets/js/wow.min.js"></script> 
+                        <script src="assets/js/bootstrap.min.js"></script> 
+                        <script src="assets/js/slick.min.js"></script> 
+                        <script src="assets/js/jquery.li-scroller.1.0.js"></script> 
+                        <script src="assets/js/jquery.newsTicker.min.js"></script> 
+                        <script src="assets/js/jquery.fancybox.pack.js"></script> 
+                        <script src="assets/js/custom.js"></script>
+                        </body>
+                        </html>
