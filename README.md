@@ -1,4 +1,4 @@
 # TrumpNe.ws
 A feed-based website designed to allow anyone to post their own news! (No political affiliation whatsoever!)
 
-[TrumpNe.ws](TrumpNe.ws)
+[TrumpNe.ws](http://www.TrumpNe.ws)
